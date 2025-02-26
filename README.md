@@ -17,6 +17,7 @@ Task Description: Weather App with API Integration
 The task involves developing a responsive and visually appealing webpage that fetches and displays weather data from a public API (e.g., OpenWeatherMap API). The goal is to create a user-friendly interface where users can input a city name, and the app will dynamically fetch and display the current weather information for that location.
 
 #Key Features of the Task
+
 1.API Integration:
 
 - Use the OpenWeatherMap API (or any other public weather API) to fetch real-time weather data.
@@ -111,3 +112,7 @@ Test the webpage on different devices to ensure responsiveness.
 4.OpenWeatherMap API: For real-time weather data.
 
 5.FontAwesome: For icons.
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/dc7231b3-343e-42b5-9018-dc4e344d2a2d)
